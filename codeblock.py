@@ -9,7 +9,7 @@ except IndexError:
 ENTITIES = {
     '&': '&amp;',
     '<': '&lt;',
-    '>': '&rt;',
+    '>': '&gt;',
     '"': '&quot;'
 }
 
