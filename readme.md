@@ -1,4 +1,5 @@
-# Codeblocks
+# &lt;code&gt;blocks
+
 
 This repository contains a helper script that I use to convert a input code into a HTML `<pre><code>` block with class names matching my blog's needs and converts special characters to HTML entities.
 
